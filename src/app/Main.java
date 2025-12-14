@@ -14,6 +14,7 @@ public class Main {
 	public static void main(String[] args) {
 		System.out.print("BIT504_A2_Task9\n");
 		System.out.print("Hello World");
+		System.out.print("New Line");
 
 	}
 
